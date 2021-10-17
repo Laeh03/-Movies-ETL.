@@ -33,7 +33,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "file_dir = \"C://Users/Lanisha/MyRepo/GitHub/Movies-ETL\""
+   "C:\Users\Lanisha\MyRepo\ETL" "
    ]
   },
   {
@@ -43,8 +43,7 @@
    "outputs": [
     {
      "data": {
-      "text/plain": [
-       "'C://Users/Lanisha/MyRepo/GitHub - Laeh03/Movies-ETL'"
+      "text/plain": [C:\Users\Lanisha\MyRepo\ETL" "
       ]
      },
      "execution_count": 4,
